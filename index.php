@@ -38,7 +38,7 @@
 		</div>		
 		<div class="bg"></div>
 		<div class="title">
-			<span class="subtitle  white-text"><h2 data-aos="fade-down">Program RT/RW Net</h2></span><br>
+			<span class="subtitle  black-text"><h2 data-aos="fade-down">Web RT/RW Net</h2></span><br>
 			<a href="#about" class="waves-effect waves-light btn-large blue" data-aos="fade-right">About</a>
 			<a class="waves-effect waves-light btn-large green accent-4" data-aos="fade-left" href="login.php">Login</a>
 		</div>
@@ -58,8 +58,8 @@
 				<a id="freatures" class="line"><h4 class="margin h1" data-aos="zoom-out" data-aos-duration="500">Freatures</h4></a>
 				<div class="col s12 m4">
 		        	<div class="icon-block">
-		            	<h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">settings</i></h2>
-		            	<h5 class="center" data-aos="zoom-in-down" data-aos-duration="500">Materialize</h5>
+		            	<h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">group</i></h2>
+		            	<h5 class="center" data-aos="zoom-in-down" data-aos-duration="500">Tim Profesional</h5>
 
 		            	<p class="light justify" data-aos="zoom-in-down" data-aos-duration="500">Created and designed by Google, Material Design is a design language that combines the classic principles of successful projects along with innovation and technology.</p>
 		          	</div>
@@ -68,7 +68,7 @@
 		        <div class="col s12 m4">
 		        	<div class="icon-block">
 			            <h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">extension</i></h2>
-			            <h5 class="center" data-aos="zoom-in-down" data-aos-duration="500">Animate On Scroll Library</h5>
+			            <h5 class="center" data-aos="zoom-in-down" data-aos-duration="500">Tetep bahagia</h5>
 
 			            <p class="light justify" data-aos="zoom-in-down" data-aos-duration="500">Small library to animate elements on your page as you scroll. CSS3 driven scroll animation library. AOS allows you to animate elements as you scroll down, and up.</p>
 		          	</div>
@@ -77,7 +77,7 @@
 		        <div class="col s12 m4">
 		        	<div class="icon-block">
 			            <h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">build</i></h2>
-			            <h5 class="center" data-aos="zoom-in-down" data-aos-duration="500">Easy to work</h5>
+			            <h5 class="center" data-aos="zoom-in-down" data-aos-duration="500">Berkarakter BARBAR</h5>
 
 			            <p class="light justify" data-aos="zoom-in-down" data-aos-duration="500">All project files are included in the repository. Just download and open the html file in your favorite browser. Tested on Chrome, Firefox, IE and Safary.</p>
 			        </div>
@@ -89,20 +89,20 @@
 				<div class="col s12 m4">
 		        	<div class="icon-block">
 		            	<h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">location_on</i></h2>
-		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">Avenida Clemente Santana, 390</p>
-		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">São Tomas de Aquino/MG</p>
+		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">Jl.Amd Babakan pocis bakti jaya setu pocis 4</p>
+		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">(Pusat) Komplek Garuda Parung</p>
 
 		            	<h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">phone</i></h2>
-		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">(35) 3535-1406</p>
+		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">(+62)895611533680</p>
 
 		            	<h2 class="center light-blue-text"><i class="material-icons" data-aos="zoom-in-down" data-aos-duration="500">mail</i></h2>
-		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">contato@tiagosousa.eti.br</p>
+		            	<p class="center" data-aos="zoom-in-down" data-aos-duration="500">ikbalputra124@gmail.com</p>
 		          	</div>
 		        </div>
 
 		        <div class="col s12 m8">
 		        	<div class="icon-block">
-			            <iframe class="marginxs" data-aos="zoom-in-down" data-aos-duration="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3730.3666257754144!2d-47.102626284984844!3d-20.776450586135557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b7383472345677%3A0x1a1dcbeec2ed4d3e!2sR.+Clemente+Santana%2C+390%2C+S%C3%A3o+Tom%C3%A1s+de+Aquino+-+MG%2C+37960-000!5e0!3m2!1spt-BR!2sbr!4v1516072353646" width="100%" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
+			            <iframe class="marginxs" data-aos="zoom-in-down" data-aos-duration="500" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4715.579055124581!2d106.69819314614375!3d-6.353443265620437!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e59f6ae9db9d%3A0xc36c17a144b18d3c!2sJl.%20Amd.%20Babakan%20Pocis%20No.4%2C%20Babakan%2C%20Kec.%20Setu%2C%20Kota%20Tangerang%20Selatan%2C%20Banten%2015310!5e0!3m2!1sid!2sid!4v1570585771848!5m2!1sid!2sid" width="100%" height="340" frameborder="0" style="border:0" allowfullscreen></iframe>
 		          	</div>
 		        </div>
 			</div>
@@ -111,31 +111,31 @@
 		<div class="container-fluid  footer">
 			<div class="row">
 				<div class="col s12 m3 marginxs">
-		        	<h5 class="center white-text" data-aos="zoom-in-down">ABOUT PROJECT</h5>
-		            <p class="justify white-text" data-aos="zoom-in-down">This project is a landing page using Materialize</p>
+		        	<h5 class="center white-text" data-aos="zoom-in-down">Tujuan Project Rt/Rw Net</h5>
+		            <p class="justify white-text" data-aos="zoom-in-down">Tujuan dibuat nya projek ini adalah untuk membangun koneksi internet jaringan LAN</p>
 		        </div>
 
 		        <div class="col s12 m3 marginxs">
-		        	<h5 class="center white-text" data-aos="zoom-in-down">OUR PROJECTS</h5>
+		        	<h5 class="center white-text" data-aos="zoom-in-down">APA YANG DIKERJAKAN</h5>
 		            <ul class="center white-text" data-aos="zoom-in-down">
-		            	<li><a href="https://github.com/tiagosousaeti/jquery-showcase" class="center white-text" target="_blank">Jquery Showcase</a></li>
+		            	<li><a href="https://github.com/ikbalputra124/jquery-showcase" class="center white-text" target="_blank">Membangun fasilitas internet di area RT/RW</a></li>
 		            </ul>
 		        </div>
 
 		        <div class="col s12 m3 marginxs">
-		        	<h5 class="center white-text" data-aos="zoom-in-down">EXTERNAL RESOURCES</h5>
+		        	<h5 class="center white-text" data-aos="zoom-in-down">APA YANG AKAN DILAKUKAN KEDEPAN</h5>
 		            <ul class="center white-text" data-aos="zoom-in-down">
-		            	<li><a href="https://michalsnik.github.io/aos/" class="center white-text" target="_blank">Animate On Scroll</a></li>
-		            	<li><a href="http://materializecss.com/" class="center white-text" target="_blank">Materialize</a></li>
+		            	<li><a href="https://michalsnik.github.io/aos/" class="center white-text" target="_blank">Kami ingin membangun Tim yang profesional dan berkarakter santuy </a></li>
+		            	<li><a href="http://materializecss.com/" class="center white-text" target="_blank">AWKWKWKWK</a></li>
 		            </ul>
 		        </div>
 
 		        <div class="col s12 m3 marginxs">
 		        	<h5 class="center white-text" data-aos="zoom-in-down">FIND US</h5>
 		            <ul class="center white-text" data-aos="zoom-in-down">
-		            	<li><a href="https://www.facebook.com/tiaguins" class="center white-text" target="_blank">Facebook</a></li>
-		            	<li><a href="https://twitter.com/tiaguins" class="center white-text" target="_blank">Twitter</a></li>
-		            	<li><a href="https://www.linkedin.com/in/tiago-sousa-67903385/" class="center white-text" target="_blank">Linkedin</a></li>
+		            	<li><a href="https://www.facebook.com/ikbalputra" class="center blue-text" target="_blank">Facebook</a></li>
+		            	<li><a href="https://twitter.com/imam" class="center blue-text" target="_blank">Twitter</a></li>
+		            	<li><a href="https://www.instagram.com/ikbalputrafauzan" class="center blue-text" target="_blank">Instagram</a></li>
 		            </ul>
 		        </div>
 			</div>
